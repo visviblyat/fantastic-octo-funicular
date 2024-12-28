@@ -1,0 +1,59 @@
+{
+  "build": "py312haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "pywinpty >=2.0.10",
+    "terminado >=0.8.3"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\jupyter_server_terminals-0.4.4-py312haa95532_1",
+  "files": [
+    "Lib/site-packages/jupyter_server_terminals-0.4.4.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter_server_terminals-0.4.4.dist-info/METADATA",
+    "Lib/site-packages/jupyter_server_terminals-0.4.4.dist-info/RECORD",
+    "Lib/site-packages/jupyter_server_terminals-0.4.4.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter_server_terminals-0.4.4.dist-info/WHEEL",
+    "Lib/site-packages/jupyter_server_terminals-0.4.4.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter_server_terminals-0.4.4.dist-info/licenses/LICENSE",
+    "Lib/site-packages/jupyter_server_terminals/__init__.py",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/api_handlers.cpython-312.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/app.cpython-312.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/handlers.cpython-312.pyc",
+    "Lib/site-packages/jupyter_server_terminals/__pycache__/terminalmanager.cpython-312.pyc",
+    "Lib/site-packages/jupyter_server_terminals/_version.py",
+    "Lib/site-packages/jupyter_server_terminals/api_handlers.py",
+    "Lib/site-packages/jupyter_server_terminals/app.py",
+    "Lib/site-packages/jupyter_server_terminals/base.py",
+    "Lib/site-packages/jupyter_server_terminals/handlers.py",
+    "Lib/site-packages/jupyter_server_terminals/py.typed",
+    "Lib/site-packages/jupyter_server_terminals/rest-api.yml",
+    "Lib/site-packages/jupyter_server_terminals/terminalmanager.py",
+    "etc/jupyter/jupyter_server_config.d/jupyter_server_terminals.json",
+    ".nonadmin"
+  ],
+  "fn": "jupyter_server_terminals-0.4.4-py312haa95532_1.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\jupyter_server_terminals-0.4.4-py312haa95532_1",
+    "type": 1
+  },
+  "md5": "398fc0724cc8b5695d740cbd8bd1eb96",
+  "name": "jupyter_server_terminals",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\jupyter_server_terminals-0.4.4-py312haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::jupyter_server_terminals==0.4.4=py312haa95532_1[md5=398fc0724cc8b5695d740cbd8bd1eb96]",
+  "sha256": "1246ad2854f3c0f0421e26bff4514ae222b3918fea4e7924bcc43ecb98bf19b0",
+  "size": 28110,
+  "subdir": "win-64",
+  "timestamp": 1701798065000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyter_server_terminals-0.4.4-py312haa95532_1.conda",
+  "version": "0.4.4"
+}
